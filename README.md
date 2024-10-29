@@ -8,8 +8,7 @@ I'm a passionate computer science student with a strong interest in software dev
   - **Languages**: Java, Python, C/C++, JavaScript
   - **Frontend**: HTML, CSS, React, Tailwind CSS
   - **Backend**: Node.js, Express, MongoDB
-- 🌍 **Location**: [Your Location]
-- 🌱 **Currently Learning**: Full-stack development with React and Node.js
+- 🌍 **Location**: [Hyderabad,Telangana]
 
 ## Achievements
 - 🏆 2nd place in a coding contest conducted by Bapatla Engineering College
@@ -28,13 +27,11 @@ Here are some of my notable projects:
 3. **[AQI Prediction Model](#)**
    - Developed a real-time air quality prediction model using Python and XGBoost, achieving an accuracy of 93%.
 
-4. **[E-commerce Website](#)**
-   - Building a full-fledged e-commerce platform with features like secure authentication, payment integration, and sales analytics.
 
 ## Contact Me
 Feel free to reach out for collaboration or any inquiries!
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [](https://www.linkedin.com/in/nagasai-challa-2b0a221ba/)
 - **Email**: [nagasaichalla1234@gmail.com](mailto:nagasaichalla1234@gmail.com)
 - **GitHub**: [Nagasai-challa](https://github.com/Nagasai-challa)
 
