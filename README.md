@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nagasai-challa-2b0a221ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 </p>
 
 ## 🎓 Education
@@ -16,18 +16,18 @@
 - Full-stack article management platform using MERN stack
 - JWT authentication, CRUD operations
 - **Tech:** React, Node, Redux, Express.js, MongoDB
-- [Source Code](your-repo-link)
+- [Source Code](https://github.com/Nagasai-challa/Artile-Hub)
 
 ### 🏠 Home Mate
 - Property rental platform with advanced search
 - Admin/User roles, JWT authentication
 - **Tech:** React.js, Node.js, Express.js, MongoDB
-- [Live Demo](your-demo-link) | [Source Code](your-repo-link)
+- [Live Demo](https://home-mate2024.vercel.app/) | [Source Code](https://github.com/Nagasai-challa/HomeMate)
 
 ### 🍔 Food Folio
 - Food ordering website using Swiggy API
 - **Tech:** React, Redux, REST API
-- [Live Demo](your-demo-link) | [Source Code](your-repo-link)
+- [Live Demo](your-demo-link) | [Source Code](https://github.com/Nagasai-challa/FoodPark)
 
 ## 🛠 Skills
 
